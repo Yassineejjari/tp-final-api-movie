@@ -1,3 +1,13 @@
+# problème recherche acteurs
+
+La recherche acteur marche bien mais je ne sais pas pourquoi les données de l'api renvoyées ne s'affichent pas ce sont {{ actor.lastname }} par exemple
+
+# Je vous ai également mis en collaborateur sur le back c'est le repository qui s'appelle WR506D
+
+
+
+
+
 # search-films
 
 This template should help get you started developing with Vue 3 in Vite.
